@@ -1,9 +1,5 @@
 README
 
-This is a test readme file so we can change and commit stuff and make branches.
+This is a test readme file for my sample project
 
-Adding new changes...
-
-Writing more code
-
-These are my changes that I need to committ.
+The sample project contains dummy source code files to be used to show our integration with GitHub.
